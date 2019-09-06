@@ -9,8 +9,8 @@ function config($key = '')
 {
     $config = [
         'name' => 'Simple PHP Website',
-        'pretty_uri' => false,
-        'site_url' => 'https://csuphpdemo.herokuapp.com',
+        //'pretty_uri' => false,
+        'site_url' => 'https://serversidephp.herokuapp.com/',
         'nav_menu' => [
             '' => 'Home',
             'about-me' => 'About Me'
