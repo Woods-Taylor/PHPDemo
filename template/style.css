@@ -26,11 +26,11 @@ body {
 }
 
 .fancyText {
-    text-decoration-color: aquamarine;
+    color: aquamarine;
 }
 
 .mediumPicture {
-    width: 49%;
+    width: 33%;
     height: 300px;
 }
 
