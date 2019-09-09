@@ -31,7 +31,9 @@ body {
 
 .mediumPicture {
     width: 33%;
-    height: 300px;
+    height: 250px;
 }
+
+h2 {color: aquamarine;}
 
 
