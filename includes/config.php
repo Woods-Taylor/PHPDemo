@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Taylors Go Website',
         'pretty_uri' => false,
         'site_url' => 'https://serversidephp.herokuapp.com/',
         'nav_menu' => [
@@ -18,7 +18,7 @@ function config($key = '')
         ],
         'template_path' => 'template',
         'content_path' => 'content',
-        'version' => 'v3.0',
+        'version' => 'v1.0',
     ];
     return isset($config[$key]) ? $config[$key] : null;
 }
