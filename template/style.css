@@ -21,11 +21,17 @@ nav .active {
 body {
     background-color: lightblue
 } 
-.gallery {
+#gallery {
     background-color: purple
 }
+
+.fancyText {
+    text-decoration-color: aquamarine;
+}
+
 .mediumPicture {
     width: 49%;
-    height: 50%
+    height: 300px;
 }
+
 
