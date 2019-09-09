@@ -24,3 +24,7 @@ body {
 .gallery {
     background-color: purple
 }
+.mediumPicture {
+    width: 48%;
+}
+
